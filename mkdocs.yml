@@ -5,5 +5,6 @@ nav:
     - Acerca de: about.md
 
 theme:
-  palette:
-    primary: blue
+    name: material
+    palette:
+        primary: blue
